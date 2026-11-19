@@ -1,6 +1,6 @@
 # Game of Chance 🎲
 
-**An interactive C++ experiment in probability, risk, and decision-making.**
+**An interactive C++ experiment in probability, risk, and decision making.**
 
 Game of Chance explores the relationship between uncertainty and human choice through a simple terminal-based game.
 
