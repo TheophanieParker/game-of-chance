@@ -12,7 +12,7 @@ The game consists of five rounds.
 
 A six-sided die determines the outcome of each roll.
 
-- Rolling 2–6 earns points.
+- Rolling 2-6 earns points.
 - Rolling 1 loses all unbanked points for that round.
 - After each successful roll, the player chooses to **Bank (B)** or **Risk (R)**.
 - Banked points are protected and contribute to the final score.
